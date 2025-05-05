@@ -12,7 +12,7 @@ for file in data/images/*.{jpg,jpeg,png}; do
     filename=$(basename "$file")
 
     # Create the thumbnail
-    magick "$file" -thumbnail 450 "tn/images/$filename"
+    magick "$file" -thumbnail 300 "tn/images/$filename"
 done
 
 # Special case resize
