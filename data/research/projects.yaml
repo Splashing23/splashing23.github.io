@@ -1,0 +1,158 @@
+ConText-CIR_CVPR:
+  title: "ConText-CIR: Learning from Concept in Text for Composed Image Retrieval"
+  authors:
+    - "Eric Xing"
+    - "Pranavi Kolouju"
+    - "Robert Pless"
+    - "Abby Stylianou"
+    - "Nathan Jacobs"
+  venue: "IEEE Conference on Computer Vision and Pattern Recognition (CVPR)"
+  thumbnail: "tn/images/contextcir.png"
+  year: 2025
+  description: "State-of-the-art composed image retrieval by bootstrapping learning from concept representations."
+
+RANGE_CVPR:
+  title: "RANGE: Retrieval Augmented Neural Fields for Multi-Resolution Geo-Embeddings"
+  authors:
+    - "Aayush Dhakal"
+    - "Srikumar Sastry"
+    - "Subash Khanal"
+    - "Adeel Ahmad"
+    - "Eric Xing"
+    - "Nathan Jacobs"
+  venue: "IEEE Conference on Computer Vision and Pattern Recognition (CVPR)"
+  links:
+    arxiv: "https://arxiv.org/abs/2502.19781"
+    code: "https://github.com/mvrl/RANGE"
+  thumbnail: "tn/images/range.png"
+  year: 2025
+  description: "We develop a retrieval-augmented strategy for geospatial representation learning, significantly improving performance on downstream tasks."
+
+good4CIR_CVPRW:
+  title: "good4cir: Generating Detailed Synthetic Captions for Composed Image Retrieval"
+  authors:
+    - "Pranavi Kolouju"
+    - "Eric Xing"
+    - "Robert Pless"
+    - "Nathan Jacobs"
+    - "Abby Stylianou"
+  venue: "2nd Workshop on Harnessing Generative Models for Synthetic Visual Datasets at CVPR"
+  year: 2025
+  thumbnail: "tn/images/good4cir.png"
+  description: "Dataset synthesis pipeline to for training of powerful composed image retrieval models."
+  links:
+    arxiv: "https://arxiv.org/abs/2503.17871"
+    code: "https://github.com/SLUVisLab/good4cir"
+    
+
+GenStereo:
+  title: "GenStereo: Towards Open-World Generation of Stereo Images and Unsupervised Matching"
+  authors:
+    - "Feng Qiao"
+    - "Zhexiao Xiong"
+    - "Eric Xing"
+    - "Nathan Jacobs"
+  thumbnail: "tn/images/GenStereo.png"
+  links:
+    website: "https://qjizhi.github.io/genstereo"
+    arXiv: "https://arxiv.org/abs/2503.12720"
+    code: "https://github.com/Qjizhi/GenStereo"
+
+PSM_ACMMM:
+  title: "PSM: Learning Probabilistic Embeddings for Multi-scale Zero-Shot Soundscape Mapping"
+  authors:
+    - "Subash Khanal"
+    - "Eric Xing"
+    - "Srikumar Sastry"
+    - "Aayush Dhakal"
+    - "Zhexiao Xiong"
+    - "Adeel Ahmad"
+    - "Nathan Jacobs"
+  venue: "ACM Multimedia"
+  year: 2024
+  links:
+    paper: "data/PSM_ACMMM.pdf"
+    arxiv: "https://arxiv.org/abs/2408.07050"
+    code: "https://github.com/mvrl/PSM"
+    bibtex: "data/PSM_ACMMM.bib"
+  thumbnail: "tn/images/PSM_Birds.png"
+  description: "We develop a probabilistic, multi-scale, and metadata-aware embedding space that connects audio, text, and overhead imagery."
+
+AAAI_ALISON:
+  title: "ALISON: Fast and Effective Stylometric Authorship Obfuscation"
+  authors:
+    - "Eric Xing"
+    - "Saranya Venkatraman"
+    - "Thai Le"
+    - "Dongwon Lee"
+  venue: "AAAI Conference on Artificial Intelligence (AAAI)"
+  year: 2024
+  links:
+    paper: "data/ALISON_AAAI.pdf"
+    arxiv: "https://arxiv.org/abs/2402.00835"
+    code: "https://github.com/EricX003/ALISON"
+    bibtex: "data/ALISON_AAAI.bib"
+  thumbnail: "tn/images/AAAI_ALISON.png"
+  description: "An authorship obfuscation method that demonstrates a ~10x speedup over previous methods while outperforming them in terms of attack success, semantic preservation, and fluency."
+
+ICPR_Uncertainty:
+  title: "Neural Network Decision-Making Criteria Consistency Analysis via Inputs Sensitivity"
+  authors:
+    - "Eric Xing"
+    - "Liangliang Liu"
+    - "Xin Xing"
+    - "Yunni Qu"
+    - "Nathan Jacobs"
+    - "Gongbo Liang"
+  venue: "International Conference on Pattern Recognition (ICPR)"
+  year: 2022
+  links:
+    paper: "data/CNN_Feature_Space_Uncertainty_ICPR2022_.pdf"
+    bibtex: "data/FeatureUncertainty_ICPR.bib"
+  thumbnail: "tn/images/ICPR_Uncertainty.png"
+  description: "Quantification and analysis of neural network decision-making criteria inconsistency and three algorithms to mitigate this inconsistency with minimal performance sacrifice."
+
+EMBC_Beware:
+  title: "Beware the Black-Box of Medical Image Generation: an Uncertainty Analysis by the Learned Feature Space"
+  authors:
+    - "Yunni Qu"
+    - "David Yan"
+    - "Eric Xing"
+    - "Fengbo Zheng"
+    - "Jie Zhang"
+    - "Liangliang Liu"
+    - "Gongbo Liang"
+  venue: "International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)"
+  year: 2022
+  links:
+    paper: "data/Image_Generation_Feature_Uncertainty_EMBC2022_.pdf"
+    bibtex: "data/Beware_EMBC.bib"
+  thumbnail: "tn/images/EMBC_Beware.png"
+  description: "Quantitative and clustering-based analyses of learned features spaces of U-Net architechtures for medical image generation."
+
+SIGCSE_Toolkit:
+  title: "A Toolkit for Assessments in Introductory Programming Courses"
+  authors:
+    - "Eric Xing"
+    - "Guangming Xing"
+  venue: "ACM Technical Symposium on Computer Science Education (SIGCSE)"
+  year: 2022
+  links:
+    paper: "data/Toolkit_SIGCSE.pdf"
+    bibtex: "data/Toolkit_SIGCSE.bib"
+  thumbnail: "tn/images/SIGCSE_Toolkit.png"
+  description: "A versatile online exam toolkit with plagarism and cheating detection as part of the vLab learning management system."
+  vLab: "https://www.vlab.academy/"
+
+Motorcycle_ICTD:
+  title: "Motorcycle Safety Investigation in Kentucky Using Machine and Deep Learning Techniques"
+  authors:
+    - "Eric Xing"
+    - "Kirolos Haleem"
+  venue: "International Conference on Transportation and Development"
+  year: 2022
+  links:
+    paper: "data/Motorcycle_ASCEICTD2022.pdf"
+    bibtex: "data/Motorcycle_ICTD.bib"
+  thumbnail: "tn/images/Motorcycle_ICTD.jpeg"
+  description: "Interpretability over a new state-of-the-art pipeline for motorcycle crash severity predicition for the analysis of factors contributing to severe motorcycle crashes."
