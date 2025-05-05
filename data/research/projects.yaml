@@ -57,7 +57,9 @@ GenStereo:
     website: "https://qjizhi.github.io/genstereo"
     arXiv: "https://arxiv.org/abs/2503.12720"
     code: "https://github.com/Qjizhi/GenStereo"
-
+  year: 2025
+  description: "GenStereo uses a diffusion-based approach with disparity-aware conditioning for strong performance in stereo image generation and unsupervised stereo matching."
+  
 PSM_ACMMM:
   title: "PSM: Learning Probabilistic Embeddings for Multi-scale Zero-Shot Soundscape Mapping"
   authors:
