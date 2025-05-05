@@ -6,6 +6,8 @@ ConText-CIR_CVPR:
     - "Robert Pless"
     - "Abby Stylianou"
     - "Nathan Jacobs"
+  links:
+    code: "https://github.com/mvrl/ConText-CIR"
   venue: "IEEE Conference on Computer Vision and Pattern Recognition (CVPR)"
   thumbnail: "tn/images/contextcir.png"
   year: 2025
@@ -44,7 +46,6 @@ good4CIR_CVPRW:
     arxiv: "https://arxiv.org/abs/2503.17871"
     code: "https://github.com/SLUVisLab/good4cir"
     
-
 GenStereo:
   title: "GenStereo: Towards Open-World Generation of Stereo Images and Unsupervised Matching"
   authors:
