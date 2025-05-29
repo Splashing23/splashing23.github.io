@@ -1,3 +1,18 @@
+QuARI_NIPS:
+  title: "QuARI: Query Adaptive Retrieval Improvement"
+  authors:
+    - "Eric Xing"
+    - "Abby Stylianou"
+    - "Robert Pless"
+    - "Nathan Jacobs"
+  links:
+    - arxiv: "https://arxiv.org/abs/2505.21647"
+    - code: "https://github.com/mvrl/QuARI"
+  venue: "arXiv"
+  year: 2025
+  thumbnail: "tn/images/QuARI.png"
+  description: "Hypernetwork-based framework for dynamic database feature adapation, for retrieval and large-scale reranking."
+
 ConText-CIR_CVPR:
   title: "ConText-CIR: Learning from Concept in Text for Composed Image Retrieval"
   authors:
@@ -7,6 +22,7 @@ ConText-CIR_CVPR:
     - "Abby Stylianou"
     - "Nathan Jacobs"
   links:
+    arxiv: "https://arxiv.org/abs/2505.20764"
     code: "https://github.com/mvrl/ConText-CIR"
   venue: "IEEE Conference on Computer Vision and Pattern Recognition (CVPR)"
   thumbnail: "tn/images/contextcir.png"
