@@ -6,8 +6,8 @@ QuARI_NIPS:
     - "Robert Pless"
     - "Nathan Jacobs"
   links:
-    - arxiv: "https://arxiv.org/abs/2505.21647"
-    - code: "https://github.com/mvrl/QuARI"
+    arxiv: "https://arxiv.org/abs/2505.21647"
+    code: "https://github.com/mvrl/QuARI"
   venue: "arXiv"
   year: 2025
   thumbnail: "tn/images/QuARI.png"
@@ -24,7 +24,7 @@ ConText-CIR_CVPR:
   links:
     arxiv: "https://arxiv.org/abs/2505.20764"
     code: "https://github.com/mvrl/ConText-CIR"
-  venue: "IEEE Conference on Computer Vision and Pattern Recognition (CVPR'25')"
+  venue: "IEEE Conference on Computer Vision and Pattern Recognition (CVPR'25)"
   thumbnail: "tn/images/contextcir.png"
   year: 2025
   description: "State-of-the-art composed image retrieval by bootstrapping learning from concept representations."

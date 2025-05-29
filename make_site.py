@@ -15,6 +15,7 @@ def generate_html(projects, author_websites):
     html = ""
 
     for project_key, project in projects.items():
+        print(f"Processing project: {project_key}")
         title = project.get('title')
         if not title:
             print(f"WARNING: Project '{project_key}' has no title. Skipping.")
