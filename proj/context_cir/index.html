@@ -4,10 +4,9 @@
   <meta charset="utf-8">
   <meta name="description"
         content="ConText-CIR framework for composed image retrieval">
-  <meta name="keywords" content="Composed image retireval, linguistic, CIR, ConText-CIR">
+  <meta name="keywords" content="Composed image retrieval, linguistic, CIR, ConText-CIR">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>ConText</title>
-
 
   <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro"
         rel="stylesheet">
@@ -20,6 +19,20 @@
         href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
   <link rel="stylesheet" href="./static/css/index.css">
   <link rel="icon" href="./static/images/favicon.svg">
+
+  <style>
+    /* Center all images */
+    img {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    /* Make teaser smaller */
+    .teaser {
+      max-width: 70%; /* Adjust as needed */
+      height: auto;
+    }
+  </style>
 
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
   <script defer src="./static/js/fontawesome.all.min.js"></script>
@@ -108,7 +121,9 @@
 
 <section class="section">
   <div class="container is-max-desktop">
-    <div class="column is-four-fifths"><img src="./static/resources/teaser_birds_JPEG.jpg"></div>
+    <div class="column is-four-fifths">
+      <img class="teaser" src="./static/resources/teaser_birds_JPEG.jpg" alt="Teaser Image" />
+    </div>
   
     <!-- Abstract. -->
     <div class="columns is-centered has-text-centered">
@@ -149,8 +164,11 @@
           <img src="./static/resources/horzontal_attn_progression.png"
           alt="progression of attention with training."/>
           <p>
-            With training, our novel Text Concept-Consistency loss guides the attention of text concepts to their relevant parts in the image. 
+            With training, our novel Text Concept-Consistency loss guides the attention of text concepts to their relevant parts in the image. A standard model based on text-image cross attention for CIR (middle) struggles to learn this alignment.
           </p>
+          <img src="./static/resources/comp_attn_poster_succinct.png"
+          alt="comparison of attention with with and without text-cc."/>
+
         </div>
        
 
