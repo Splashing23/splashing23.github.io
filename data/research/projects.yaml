@@ -24,6 +24,7 @@ ConText-CIR_CVPR:
   links:
     arxiv: "https://arxiv.org/abs/2505.20764"
     code: "https://github.com/mvrl/ConText-CIR"
+    website: "https://ericx003.github.io/proj/context_cir/"
   venue: "IEEE Conference on Computer Vision and Pattern Recognition (CVPR'25)"
   thumbnail: "tn/images/contextcir.png"
   year: 2025
