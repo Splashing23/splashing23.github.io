@@ -1,3 +1,18 @@
+RCME:
+  title: "Global and Local Entailment Learning for Natural World Imagery"
+  authors:
+    - "Srikumar Sastry"
+    - "Aayush Dhakal"
+    - "Eric Xing"
+    - "Subash Khanal"
+    - "Nathan Jacobs"
+  venue: "International Conference on Computer Vision (ICCV) 2025"
+  year: 2025
+  links:
+    website: "https://vishu26.github.io/RCME/index.html"
+  description: "We introduce a framework that explicitly enforces the modeling of transitivity-enforced entailment for the partial order of concepts within vision-language models."
+  thumbnail: "tn/images/rcme_iccv.png"
+
 QuARI_NIPS:
   title: "QuARI: Query Adaptive Retrieval Improvement"
   authors:
