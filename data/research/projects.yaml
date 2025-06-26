@@ -13,6 +13,23 @@ RCME:
   description: "We introduce a framework that explicitly enforces the modeling of transitivity-enforced entailment for the partial order of concepts within vision-language models."
   thumbnail: "tn/images/rcme_iccv.png"
 
+  GenStereo:
+  title: "GenStereo: Towards Open-World Generation of Stereo Images and Unsupervised Matching"
+  authors:
+    - "Feng Qiao"
+    - "Zhexiao Xiong"
+    - "Eric Xing"
+    - "Nathan Jacobs"
+  thumbnail: "tn/images/GenStereo.png"
+  links:
+    website: "https://qjizhi.github.io/genstereo"
+    arXiv: "https://arxiv.org/abs/2503.12720"
+    code: "https://github.com/Qjizhi/GenStereo"
+  year: 2025
+  venue: "International Conference on Computer Vision (ICCV) 2025"
+  description: "GenStereo uses a diffusion-based approach with disparity-aware conditioning for strong performance in stereo image generation and unsupervised stereo matching."
+
+
 QuARI_NIPS:
   title: "QuARI: Query Adaptive Retrieval Improvement"
   authors:
@@ -78,22 +95,6 @@ good4CIR_CVPRW:
     arxiv: "https://arxiv.org/abs/2503.17871"
     code: "https://github.com/SLUVisLab/good4cir"
     
-GenStereo:
-  title: "GenStereo: Towards Open-World Generation of Stereo Images and Unsupervised Matching"
-  authors:
-    - "Feng Qiao"
-    - "Zhexiao Xiong"
-    - "Eric Xing"
-    - "Nathan Jacobs"
-  thumbnail: "tn/images/GenStereo.png"
-  links:
-    website: "https://qjizhi.github.io/genstereo"
-    arXiv: "https://arxiv.org/abs/2503.12720"
-    code: "https://github.com/Qjizhi/GenStereo"
-  year: 2025
-  venue: "arXiv"
-  description: "GenStereo uses a diffusion-based approach with disparity-aware conditioning for strong performance in stereo image generation and unsupervised stereo matching."
-
 PSM_ACMMM:
   title: "PSM: Learning Probabilistic Embeddings for Multi-scale Zero-Shot Soundscape Mapping"
   authors:
