@@ -6,7 +6,7 @@ RCME:
     - "Eric Xing"
     - "Subash Khanal"
     - "Nathan Jacobs"
-  venue: "International Conference on Computer Vision (ICCV) 2025"
+  venue: "International Conference on Computer Vision (ICCV)"
   year: 2025
   links:
     website: "https://vishu26.github.io/RCME/index.html"
@@ -27,7 +27,7 @@ GenStereo:
     arXiv: "https://arxiv.org/abs/2503.12720"
     code: "https://github.com/Qjizhi/GenStereo"
   year: 2025
-  venue: "International Conference on Computer Vision (ICCV) 2025"
+  venue: "International Conference on Computer Vision (ICCV)"
   description: "GenStereo uses a diffusion-based approach with disparity-aware conditioning for strong performance in stereo image generation and unsupervised stereo matching."
 
 
@@ -58,7 +58,7 @@ ConText-CIR_CVPR:
     arxiv: "https://arxiv.org/abs/2505.20764"
     code: "https://github.com/mvrl/ConText-CIR"
     website: "https://ericx003.github.io/proj/context_cir/"
-  venue: "IEEE Conference on Computer Vision and Pattern Recognition (CVPR'25)"
+  venue: "IEEE Conference on Computer Vision and Pattern Recognition (CVPR)"
   thumbnail: "tn/images/contextcir.png"
   year: 2025
   description: "State-of-the-art composed image retrieval by bootstrapping learning from concept representations."
