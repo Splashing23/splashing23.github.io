@@ -10,10 +10,11 @@ RCME:
   year: 2025
   links:
     website: "https://vishu26.github.io/RCME/index.html"
+    arXiv: "https://arxiv.org/abs/2506.21476"
   description: "We introduce a framework that explicitly enforces the modeling of transitivity-enforced entailment for the partial order of concepts within vision-language models."
   thumbnail: "tn/images/rcme_iccv.png"
 
-  GenStereo:
+GenStereo:
   title: "GenStereo: Towards Open-World Generation of Stereo Images and Unsupervised Matching"
   authors:
     - "Feng Qiao"
